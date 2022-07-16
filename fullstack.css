@@ -1,0 +1,27 @@
+.navbar{
+  padding: 20px;
+  text-align: center;
+}
+.nav-link{
+  padding-left: 30px;
+}
+.btn{
+  margin: 20px;
+  position: absolute;
+  transform: translateX(55%);
+}
+.btn-group{
+  border-radius: 20%;
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
